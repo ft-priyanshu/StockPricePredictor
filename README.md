@@ -27,7 +27,6 @@ This project is a simple **stock price prediction tool** written in **pure Java*
 
 1. Clone the repository:
    
-    git clone https://github.com/your-username/stock-price-predictor-java.git
     cd stock-price-predictor-java
 
 
